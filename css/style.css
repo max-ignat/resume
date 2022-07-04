@@ -1,0 +1,245 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+background-color: #F5F7FA;
+}
+ 
+/* main styles */
+.main {
+
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1280px;
+    margin: 40px auto;
+}
+
+.main_content {
+    background-color:#FFFFFF;   
+    box-shadow: 6px 6px 20px;
+    
+}
+
+/* about styles */
+.about {
+    padding-top: 112px;
+    padding-right: 342px;
+    padding-left: 90px;
+
+    margin-bottom: 40px;
+
+    line-height: 24px;
+    text-align: justify;
+    
+}
+.about_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+
+}
+.about_name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+
+}
+.about_description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;
+    width: 400px;
+    
+}
+/* projec styles */
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+    }
+.projects{
+
+     margin-bottom: 50px;
+    padding-left: 88px;
+    }
+.project_list {
+    padding: 0px;
+    margin-left: 15px;
+ }
+.project_item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project_link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;  
+    color: #595959;
+    margin-left: 10px;
+}
+.project {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project_braket {
+    color: black;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* work styles */
+    .work {
+    background-color: white;
+    margin-bottom: 16px;
+    padding-left: 88px;
+    text-align: justify;
+    }
+.company_name {
+color: #FB6D3A;
+}
+.company {
+    margin-bottom: 20px;
+    }
+.position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.period{
+font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+.vertical_line {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.duty_list {
+    padding: 0px;
+    margin-left: 15px;
+    width: 509px;
+    height: 120px;
+    left: 514px;
+    top: 663px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 16px;
+}
+
+/* education styles */
+.education {
+    background-color: white;
+    padding-left: 88px;
+    padding-top: 0px auto;
+    padding-bottom: 40px;
+    text-align: justify;
+}
+.university_name{
+    color: #FB6D3A;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.speciality{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+/* photo */
+.photo {
+    width: 370px;
+    margin-bottom: 50px;
+    
+}
+/* contacts */
+
+/* .sidebar styles  */
+.sidebar {
+    background: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+/* list_color */
+.list_color {
+    color: white;
+    }
+/* li-colors */
+.li-color {
+    color: #FB6D3A;
+}
+.contacts,
+.tech_skills,
+.soft_skills {
+    padding-left: 20px;
+} 
+.contacts {
+    margin-bottom: 50px;
+}
+/* .sidebar-title */
+.sidebar-title {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+}
+.contact_type {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 40px;
+}
+.contact_link{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #565E6A;
+}
+.skill_list{
+    margin-left: 17px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px
+}
+.footer{
+    text-align: center;
+    
+}
